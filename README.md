@@ -5,7 +5,7 @@ Software Design - Part 2
 ## Kaloyan Dimitrov and Marcell Nemes
 
 First part:
-###Creational Design Patterns
+### Creational Design Patterns
 
 Factory Method
 
@@ -20,7 +20,7 @@ It has a private constructor and a public getInstance() method, ensuring that on
 This is appropriate because there should only be one component controlling the game rules and state at any time.
 
 Second part:
-###Structural patterns
+### Structural patterns
 
 Flyweight
 
@@ -38,7 +38,7 @@ The adapter converts user-friendly input into engine-friendly coordinates withou
 This cleanly separates input handling from core game logic.
 
 Third part:
-###Behavioral Design Patterns
+### Behavioral Design Patterns
 Command
 
 The Command pattern is used to encapsulate each chess move as a separate object.
