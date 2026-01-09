@@ -8,6 +8,7 @@ Kaloyan- I was responsible for implementing the core structure of the chess appl
 This included setting up the main program flow (Main), creating the console-based user interfacea and implementing the board logic..
 
 I also implemented the Piece abstraction and the PieceFactory, which handles the creation of chess pieces in a centralized way.
+While working with Marcell, we helped each other and it was interesting to develop a program like that.
 
 Marcell- I made the game engine, the commands and strategies. Basically, the core functionality of the application. I also helped 
 Kaloyan a lot with how the foundations of the app should be put together, including the Board's functionality/logic.
