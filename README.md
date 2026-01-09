@@ -1,7 +1,7 @@
 # Programma
 
 Software Design - Part 2
-
+https://github.com/Kaloyand22/Programma
 ## Kaloyan Dimitrov and Marcell Nemes
 
 Kaloyan- I was responsible for implementing the core structure of the chess application.
