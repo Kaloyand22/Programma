@@ -4,6 +4,13 @@ Software Design - Part 2
 
 ## Kaloyan Dimitrov and Marcell Nemes
 
+Kaloyan- I was responsible for implementing the core structure of the chess application.
+This included setting up the main program flow (Main), creating the console-based user interfacea and implementing the board logic..
+
+I also implemented the Piece abstraction and the PieceFactory, which handles the creation of chess pieces in a centralized way.
+
+Marccell-
+
 First part:
 ### Creational Design Patterns
 
