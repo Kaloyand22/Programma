@@ -9,7 +9,9 @@ This included setting up the main program flow (Main), creating the console-base
 
 I also implemented the Piece abstraction and the PieceFactory, which handles the creation of chess pieces in a centralized way.
 
-Marccell-
+Marcell- I made the game engine, the commands and strategies. Basically, the core functionality of the application. I also helped 
+Kaloyan a lot with how the foundations of the app should be put together, including the Board's functionality/logic.
+Overall, I had a great time developing this fun little "game" with Kaloyan, he was reliable to work with.
 
 First part:
 ### Creational Design Patterns
